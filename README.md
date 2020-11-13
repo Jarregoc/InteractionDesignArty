@@ -4,4 +4,4 @@ Created by Team Zoom:
 - Daren Dunaway
 - Griffith Prendiville
 - Andrey Varakin
-- Julian Arregoces
+- Julian Arregoce
